@@ -7,7 +7,7 @@ Analyze Cuisine-Rating Relationships: Identify which cuisines correlate with hig
 
 Feature Engineering: Transform categorical data into model-friendly features. Handle geospatial data (Latitude, Longitude) to infer location-based patterns.
 
-Predictive Modeling: Train regression models (e.g., Linear Regression) to predict aggregate ratings.
+Predictive Modeling: Train regression models (uisng simple linear, Random forest and decision tree regression) to predict aggregate ratings.
 
 Evaluate performance using metrics like RMSE and R²-score.
 
